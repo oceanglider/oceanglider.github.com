@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RIO的技术博客</title><link href="http://oceanglider.github.io/" rel="alternate"></link><link href="http://oceanglider.github.io/feeds/haili-wang.atom.xml" rel="self"></link><id>http://oceanglider.github.io/</id><updated>2014-10-22T00:00:00+08:00</updated><entry><title>这是我的第一个博客测试</title><link href="http://oceanglider.github.io/pages/2014/10/22/test1.html" rel="alternate"></link><updated>2014-10-22T00:00:00+08:00</updated><author><name>Haili Wang</name></author><id>tag:oceanglider.github.io,2014-10-22:pages/2014/10/22/test1.html</id><summary type="html">&lt;h2&gt;This is a test.  这是一个测试。&lt;/h2&gt;
+&lt;p&gt;我今天按照网上geek大牛的经验帖，利用&lt;code&gt;pelican&lt;/code&gt;做了一个git的repositary。感觉很不错。&lt;/p&gt;
+&lt;h3&gt;下一级的标题&lt;/h3&gt;
+&lt;p&gt;目前尚未搞清楚的一些关键事项：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;怎样设定字体？&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Mou&lt;/code&gt;是否有一个user guide？&lt;/li&gt;
+&lt;li&gt;可否随意设定文字的颜色和样式（比如加黑、斜体、颜色、高亮背景，等等）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;就先到这里吧。順帶便試著輸入幾個繁體字，呵呵。&lt;/h5&gt;
+&lt;p&gt;2014年10月22日 2:52&lt;/p&gt;</summary><category term="pelican"></category><category term="blog"></category><category term="python"></category></entry></feed>
